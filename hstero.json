@@ -1,0 +1,16 @@
+{
+    "urls": [
+        {
+            "url": "https://mi.mpanso.me/DEMO.json",
+            "name": "小米"
+        },
+        {
+            "url": "http://我不是.肥猫.live/接口禁止贩卖",
+            "name": "肥猫"
+        },
+        {
+            "url": "http://www.饭太硬.com/tv/",
+            "name": "饭太硬"
+        }
+    ]
+}
